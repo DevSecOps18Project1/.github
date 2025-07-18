@@ -18,3 +18,7 @@ The backend (include its swagger) and all other microservices information
 
 All the information of the DevOps are in the repository
 [DevOps](https://github.com/DevSecOps18Project1/DevOps).
+
+## Demo Session
+
+[![The Project Structure](https://img.youtube.com/vi/6esOOwKprsI/0.jpg)](https://www.youtube.com/watch?v=6esOOwKprsI)
